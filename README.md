@@ -31,7 +31,22 @@ Sou estudante de **Engenharia de Computação**, gosto muito de desafios, em esp
 - 🚀 **Projetos em C/C++:** Implementação nativa de simulações e algoritmos com controle estrito de memória.
 
 ### 📝 Publicações e Escritas Técnicas
-- 📖 **[Microcontroladores - Vol. 1 (Em desenvolvimento)](link-do-seu-repositorio-do-livro):** Um manual teórico e prático escrito em LaTeX sobre microcontroladores, arquiteturas (Harvard/Von Neumann) e programação em C da (Família PIC).
+
+<table>
+  <tr>
+    <td width="15%" valign="top">
+      <a href="https://github.com/GabrielRainwalker/Manual-Microcontroladores-PIC">
+        <img src="https://github.com/GabrielRainwalker/Manual-Microcontroladores-PIC/blob/main/imgs/capa.png?raw=true" width="100%" style="border: 1px solid #e1e4e8; border-radius: 4px;" alt="Capa do Livro">
+      </a>
+    </td>
+    <td width="85%" valign="top">
+      <p style="margin-top: 0;">
+        <a href="https://github.com/GabrielRainwalker/Manual-Microcontroladores-PIC" style="font-size: 16px; font-weight: bold; text-decoration: none;">Microcontroladores - Vol. 1 (Em desenvolvimento)</a>
+      </p>
+      <p style="margin-bottom: 0;">Um manual teórico e prático escrito em LaTeX sobre microcontroladores, arquiteturas (Harvard/Von Neumann) e programação em C da (Família PIC).</p>
+    </td>
+  </tr>
+</table>
 
 ### 📬 Conecte-se comigo
 <p align="left">
